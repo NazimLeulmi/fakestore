@@ -22,7 +22,7 @@ const ProductsList = styled.div`
   grid-template-columns: 1fr;
   justify-items: center;
   box-sizing: border-box;
-  /* padding: 15px; */
+  padding: 15px;
   @media (min-width: 768px) {
     grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
